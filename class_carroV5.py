@@ -1,5 +1,5 @@
 class Carro:
-    chassi = 14545646465
+    chassi = ""
     marca = ""
     modelo = ""
     tipo_combustivel = ""
